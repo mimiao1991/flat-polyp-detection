@@ -1,0 +1,1 @@
+The gaborgro.m is the code for edge detection. The hofu.m and cirgusswin.m are the code to classify ridges, innominate grooves and random lines. re**.m are codes to refine the classification of edges. 
